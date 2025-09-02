@@ -1,4 +1,4 @@
 # amarjeet
 This is my first Git Repository
 <br>
-Author - AMARJEET
+Author - AMARJEET (BCA)
